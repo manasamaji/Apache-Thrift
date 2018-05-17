@@ -1,0 +1,11 @@
+# IDE
+.history
+.idea
+.vscode
+
+# Build
+node_modules
+npm-debug.log
+dist/
+dist-dev/
+gen-nodejs/
